@@ -29,6 +29,7 @@
     "ws": "^8.3.0"
   },
   "devDependencies": {
+    "@types/protobufjs": "^5.0.31",
     "documentation": "^12.1.4",
     "husky": "^4.2.1",
     "xo": "^0.28.1"
