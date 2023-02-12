@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "form-data": "^4.0.0",
-    "got": "^11.8.3",
+    "got": "^12.5.3",
     "protobufjs": "^5.0.3",
     "reconnecting-websocket": "^4.4.0",
     "tough-cookie": "^4.0.0",
@@ -32,7 +32,7 @@
     "@types/protobufjs": "^5.0.31",
     "documentation": "^12.1.4",
     "husky": "^4.2.1",
-    "xo": "^0.28.1"
+    "xo": "^0.53.1"
   },
   "husky": {
     "hooks": {
